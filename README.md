@@ -1,5 +1,5 @@
-Document: [here](../master/IPR2-3.pdf)
+Document: [IPR2-3.pdf](../master/IPR2-3.pdf)
 
-App: [here](../master/ipr.jar)
+App: [ipr.jar](../master/ipr.jar)
 
 Usage: see document
